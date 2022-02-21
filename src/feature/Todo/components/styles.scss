@@ -1,9 +1,0 @@
-.todo-list {
-    & > li {
-        cursor: pointer;
-    }
-    & > li.no-active {
-        color: #888;
-        text-decoration: line-through;
-    }
-}
